@@ -1,6 +1,6 @@
 
-- 🧠 I'm a new PhD student @CNG-LAB.
-- 🌊 I’m currently working on brain dynamics. 
+- 🧠 PhD student @CNG-LAB
+- 🌊 Working on brain dynamics 
 
 `Last updated: 2025-08-29`
 
