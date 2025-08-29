@@ -1,9 +1,8 @@
-## Hi there 👋
 
 - 🧠 I'm a new PhD student.
 - 🌊 I’m currently working on brain dynamics. 
 
-`Last updated: 2025-08-18`
+`Last updated: 2025-08-29`
 
 <!--
 **carolinejantzen/carolinejantzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
